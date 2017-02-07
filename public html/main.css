@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400i|Slabo+27px');
+
+
+h1,h2,h3
+{
+	font-family: 'Slabo 27px', serif;
+
+}
+
+h4,h5,h6,h7,h8,p
+{
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.jumbotron {
+background-color: #F9EAB8;
+	max-height: 300px;
+}
+.row
+{
+	padding-right: 10%;
+	padding-left: 10%;
+	max-height: 400px;
+}
+
+
+#map_canvas {
+        height: 800px;
+        width: auto;
+	
+}
+img {
+
+}
+
+ #select_route {width:20%; height:200px;}
